@@ -3,7 +3,7 @@
 </p> -->
 <br><br>
 <p align="center">
-  <img width ="70%" src="[https://user-images.githubusercontent.com/61280281/134729891-673ca940-13dd-4c51-8597-ee576267d374.png](https://raw.githubusercontent.com/Taraldinn/certificate-generator/master/templates/PUDSCERT.png)">
+  <img width ="70%" src="https://raw.githubusercontent.com/Taraldinn/certificate-generator/master/templates/PUDSCERT.png">
 </p>
 <br>
 <p align="center"> A simple mass certificate generator script for the community ⚡ </p>
